@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-09-03T21:06:34.289-03:00",
-  "LastSaveTime": "2025-11-05T19:26:23.591-03:00",
+  "LastSaveTime": "2025-11-18T19:10:24.583-03:00",
   "Prefs_MainPinNamesDisplayMode": 0,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -22,7 +22,8 @@
     "HALF_ADDER",
     "FULL_ADDER",
     "4-Bit-adder",
-    "half-subtractor"
+    "half-subtractor",
+    "Full-subtractor"
   ],
   "StarredList":[
     {
@@ -43,6 +44,10 @@
     },
     {
       "Name":"half-subtractor",
+      "IsCollection":false
+    },
+    {
+      "Name":"Full-subtractor",
       "IsCollection":false
     }
   ],
@@ -78,8 +83,8 @@
       "Name":"MEMORY"
     },
     {
-      "Chips":["BUZZER","AND","3-AND","NOT","OR","NOR","xor","HALF_ADDER","FULL_ADDER"],
-      "IsToggledOpen":true,
+      "Chips":["BUZZER","AND","3-AND","NOT","OR","NOR","xor","HALF_ADDER","FULL_ADDER","4-Bit-adder","half-subtractor","Full-subtractor"],
+      "IsToggledOpen":false,
       "Name":"OTHER"
     },
     {

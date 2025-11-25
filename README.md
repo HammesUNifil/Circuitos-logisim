@@ -1,4 +1,4 @@
-##DMUX (Demultiplexador) – 2 bits
+## DMUX (Demultiplexador) – 2 bits
 Entradas: Uma unica entrada de dados e duas linhas de controle de dois bits
 Saidas: Quatro possiveis saidas
 FUncionalidade: O DMUX faz o contrario do MUX. Pegando um unico sinal de entrada e usando os 2 bits do selector para enviar esse sinal para uma das saidas
